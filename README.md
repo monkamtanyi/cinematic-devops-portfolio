@@ -1,4 +1,4 @@
-﻿# Andreas Mokam | Senior DevOps Engineer Portfolio
+# Andreas Mokam | Senior DevOps Engineer Portfolio
 
 Senior DevOps Engineer with 9+ years of experience designing,
 automating, and supporting cloud infrastructure, CI/CD pipelines,
@@ -30,11 +30,19 @@ Technology:
 - Hugging Face Spaces
 
 
-## Engineering Projects
+## Project Screenshots
 
-See:
+![Cinematic Engine UI](assets/images/cinematic-engine-ui.png)
 
-projects/PROJECTS.md
+![Generated Video](assets/images/generated-video.png)
+
+![Rendering Process](assets/images/rendering-process.png)
+
+
+## Engineering Documentation
+
+- Project Details: [PROJECTS](projects/PROJECTS.md)
+- Architecture: [ARCHITECTURE](docs/ARCHITECTURE.md)
 
 
 ## Certifications
@@ -45,7 +53,10 @@ projects/PROJECTS.md
 ## Portfolio
 
 GitHub:
+
 https://github.com/monkamtanyi
 
+
 Live Demo:
+
 https://huggingface.co/spaces/monkamtanyi/cinematic-engine-v5
